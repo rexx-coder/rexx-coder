@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prithibe Majumder</h1>
-<h3 align="center">A data science undergrad and passionate about UI/UX design from India</h3>
+<h3 align="center">A data science undergrad and passionate about Frontend dev from Kolkata India</h3>
 
 - 🔭 I’m currently working on **Terra-Grow Agritech**
 
 - 🌱 I’m currently learning **Python, HTML,CSS**
 
-- 💬 Ask me about **Java and Pyhton**
+- 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **majumderprithibe@gmail.com**
 
