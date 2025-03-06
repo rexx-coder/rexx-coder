@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prithibe Majumder</h1>
 <h3 align="center">A data science undergrad and passionate about Frontend dev from Kolkata India</h3>
 
-- 🔭 I’m currently working on **Terra-Grow Agritech**
+- 🔭 I’m currently working on **Prism**
 
-- 🌱 I’m currently learning **Python, HTML,CSS**
+- 🌱 I’m currently learning **Python, HTML,CSS,JS**
 
 - 💬 Ask me about **Java and Python**
 
